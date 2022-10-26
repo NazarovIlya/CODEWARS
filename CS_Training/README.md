@@ -1,6 +1,3 @@
-# **CODEWARS**
-
-## **CS_Training**
 
 ### **CS_Training00000**
 
